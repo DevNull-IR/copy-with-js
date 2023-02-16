@@ -10,4 +10,4 @@ best:
  * copyTextToClipboard
 
 
-(https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript)[https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript]
+[https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript](httpas://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript)
